@@ -1,0 +1,7 @@
+https://github.com/Workaholicws/Workaholicws.git
+
+上传命令：./github.sh
+
+
+目录：
+findReapet	#This program is used to find repeat element in TXT.
